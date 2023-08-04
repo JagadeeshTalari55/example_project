@@ -1,0 +1,13 @@
+.container {
+  padding: 20px;
+}
+
+.card {
+  background-color: rgb(120, 199, 199);
+  color: #fff;
+  width: 250px;
+  border-radius: 5px;
+  padding: 10px;
+  display: inline-block;
+  margin-right: 10px;
+}
